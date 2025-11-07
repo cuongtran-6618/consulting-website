@@ -116,3 +116,9 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
+
+.hero-container {
+  background-image: url('~/public/images/hero-2.jpg');
+  background-size: cover;
+  background-position: center;
+}

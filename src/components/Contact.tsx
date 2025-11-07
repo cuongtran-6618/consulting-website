@@ -137,7 +137,7 @@ export function Contact() {
           >
             {contactInfo.map((info, index) => (
               <Card key={index} className="hover:shadow-lg transition-shadow duration-300">
-                <CardContent className="flex items-start gap-4 pt-6">
+                <CardContent className="flex items-start items-center gap-4 pt-6">
                   <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
                     <info.icon className="h-6 w-6 text-primary" />
                   </div>

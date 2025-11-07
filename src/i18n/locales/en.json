@@ -127,8 +127,8 @@
     "message": "Your Message",
     "send": "Send Message",
     "info": {
-      "address": "123 Business Street, City, Country",
-      "phone": "+1 234 567 8900",
+      "address": "Espoo, Finland",
+      "phone": "(+358)40 666 6666",
       "email": "info@consulting.com",
       "hours": "Mon-Fri: 9:00 AM - 6:00 PM"
     }
