@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "services": "Dịch vụ",
+    "pricing": "Bảng giá",
+    "testimonials": "Đánh giá",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Cắt giảm chi phí lên đến 50%",
+    "subtitle": "Chúng tôi cung cấp dịch vụ tư vấn chuyên nghiệp để giúp doanh nghiệp của bạn phát triển và thành công trong thị trường cạnh tranh ngày nay.",
+    "cta": "Bắt đầu",
+    "ctaSecondary": "Tìm hiểu thêm",
+    "hours": "Thứ 2-6: 9 giờ sáng – 10 giờ tối",
+    "hoursWeekend": "Thứ 7: 9 giờ sáng – 8 giờ tối",
+    "tagline": "Kết quả của bạn là ưu tiên hàng đầu của chúng tôi!"
+  },
+  "about": {
+    "title": "Về Công Ty Chúng Tôi",
+    "subtitle": "Xuất sắc trong Tư vấn",
+    "description": "Chúng tôi là một đội ngũ các chuyên gia tư vấn giàu kinh nghiệm, tận tâm giúp đỡ các doanh nghiệp đạt được mục tiêu của họ. Với nhiều năm kinh nghiệm trong ngành, chúng tôi cung cấp hướng dẫn chiến lược và giải pháp thực tế.",
+    "experience": "Năm kinh nghiệm",
+    "clients": "Khách hàng hài lòng",
+    "projects": "Dự án hoàn thành",
+    "awards": "Giải thưởng"
+  },
+  "services": {
+    "title": "Dịch Vụ Của Chúng Tôi",
+    "subtitle": "Những gì chúng tôi cung cấp",
+    "strategy": {
+      "title": "Chiến Lược Kinh Doanh",
+      "description": "Phát triển chiến lược toàn diện để thúc đẩy tăng trưởng và cải thiện hiệu suất"
+    },
+    "financial": {
+      "title": "Tư Vấn Tài Chính",
+      "description": "Tư vấn tài chính chuyên môn để tối ưu hóa tài chính và đầu tư doanh nghiệp của bạn"
+    },
+    "operations": {
+      "title": "Quản Lý Vận Hành",
+      "description": "Tối ưu hóa hoạt động và cải thiện hiệu quả trong toàn bộ tổ chức của bạn"
+    },
+    "marketing": {
+      "title": "Chiến Lược Marketing",
+      "description": "Tạo các chiến dịch marketing hiệu quả tiếp cận đối tượng mục tiêu của bạn"
+    },
+    "hr": {
+      "title": "Tư Vấn Nhân Sự",
+      "description": "Xây dựng đội ngũ mạnh mẽ và phát triển chiến lược nguồn nhân lực hiệu quả"
+    },
+    "technology": {
+      "title": "Tư Vấn Công Nghệ",
+      "description": "Tận dụng công nghệ để chuyển đổi doanh nghiệp và duy trì khả năng cạnh tranh"
+    }
+  },
+  "pricing": {
+    "title": "Bảng Giá Của Chúng Tôi",
+    "subtitle": "Chọn gói phù hợp với nhu cầu của bạn",
+    "monthly": "Hàng tháng",
+    "annually": "Hàng năm",
+    "starter": {
+      "name": "Gói Khởi Đầu",
+      "description": "Hoàn hảo cho doanh nghiệp nhỏ",
+      "price": "299",
+      "features": [
+        "10 người dùng",
+        "5 dự án",
+        "Hỗ trợ qua email",
+        "Phân tích cơ bản",
+        "Báo cáo hàng tháng"
+      ]
+    },
+    "professional": {
+      "name": "Gói Chuyên Nghiệp",
+      "description": "Lý tưởng cho công ty đang phát triển",
+      "price": "599",
+      "features": [
+        "25 người dùng",
+        "Dự án không giới hạn",
+        "Hỗ trợ ưu tiên",
+        "Phân tích nâng cao",
+        "Báo cáo hàng tuần",
+        "Tích hợp tùy chỉnh"
+      ]
+    },
+    "corporate": {
+      "name": "Gói Doanh Nghiệp",
+      "description": "Được thiết kế cho khách hàng doanh nghiệp",
+      "price": "999",
+      "features": [
+        "50 người dùng",
+        "Dự án không giới hạn",
+        "Hỗ trợ 24/7",
+        "Phân tích cao cấp",
+        "Báo cáo thời gian thực",
+        "Quản lý chuyên trách",
+        "Giải pháp tùy chỉnh"
+      ]
+    },
+    "cta": "Đăng ký ngay"
+  },
+  "testimonials": {
+    "title": "Phản hồi từ bạn",
+    "subtitle": "Khách hàng nói gì về chúng tôi",
+    "testimonial1": {
+      "text": "Chúng tôi bày tỏ lòng biết ơn đối với trách nhiệm cao, sự hiểu biết và mong muốn giúp đỡ trong mọi tình huống! Tôi cũng muốn lưu ý đến năng lực và hiệu quả. Chúng tôi mong đợi sự hợp tác lâu dài và hiệu quả!",
+      "author": "George Carroll",
+      "position": "Giám đốc điều hành, Tech Solutions"
+    },
+    "testimonial2": {
+      "text": "Tôi bày tỏ lòng biết ơn sâu sắc đến đội ngũ về dịch vụ hoàn hảo và hiệu quả cho hoạt động của công ty dựa trên kết quả của bảy năm hợp tác. Tôi khuyến nghị dịch vụ của công ty này cho tất cả mọi người!",
+      "author": "Lionel Backer",
+      "position": "Giám đốc, Innovation Labs"
+    },
+    "testimonial3": {
+      "text": "Công ty này đã là đối tác của chúng tôi trong 2 năm. Họ chịu trách nhiệm cho tất cả các nhiệm vụ được giao và thực hiện công việc một cách hiệu quả và đúng hạn. Công ty này có nhân viên có năng lực, kỷ luật và tinh thần đội ngũ mạnh mẽ.",
+      "author": "Jennifer Baldwin",
+      "position": "Quản lý, Global Enterprises"
+    }
+  },
+  "contact": {
+    "title": "Liên Hệ",
+    "subtitle": "Chúng tôi muốn nghe từ bạn",
+    "name": "Tên của bạn",
+    "email": "Email của bạn",
+    "phone": "Số điện thoại",
+    "message": "Tin nhắn của bạn",
+    "send": "Gửi tin nhắn",
+    "info": {
+      "address": "123 Đường Kinh Doanh, Thành phố, Quốc gia",
+      "phone": "+84 123 456 789",
+      "email": "info@tuvan.vn",
+      "hours": "Thứ 2-6: 9:00 sáng - 6:00 chiều"
+    }
+  },
+  "footer": {
+    "description": "Chúng tôi cung cấp dịch vụ tư vấn chuyên nghiệp để giúp doanh nghiệp của bạn phát triển và thành công.",
+    "quickLinks": "Liên kết nhanh",
+    "services": "Dịch vụ",
+    "contact": "Thông tin liên hệ",
+    "rights": "Tất cả quyền được bảo lưu."
+  },
+  "common": {
+    "learnMore": "Tìm hiểu thêm",
+    "getStarted": "Bắt đầu",
+    "readMore": "Đọc thêm",
+    "contactUs": "Liên hệ chúng tôi"
+  }
+}

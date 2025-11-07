@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "home": "Etusivu",
+    "about": "Tietoa meistä",
+    "services": "Palvelut",
+    "pricing": "Hinnoittelu",
+    "testimonials": "Asiakaspalautteet",
+    "contact": "Ota yhteyttä"
+  },
+  "hero": {
+    "title": "Leikkaa kustannuksia jopa 50%",
+    "subtitle": "Tarjoamme asiantuntevaa konsultointipalvelua auttaaksemme yritystäsi kasvamaan ja menestymään nykypäivän kilpailluilla markkinoilla.",
+    "cta": "Aloita tästä",
+    "ctaSecondary": "Lue lisää",
+    "hours": "Ma-Pe: 9.00 – 22.00",
+    "hoursWeekend": "Lauantai: 9.00 – 20.00",
+    "tagline": "Tuloksesi ovat etusijalla!"
+  },
+  "about": {
+    "title": "Yrityksestämme",
+    "subtitle": "Huippuosaamista konsultoinnissa",
+    "description": "Olemme kokeneiden konsulttien tiimi, joka on omistautunut auttamaan yrityksiä saavuttamaan tavoitteensa. Useiden vuosien alan kokemuksella tarjoamme strategista ohjausta ja käytännöllisiä ratkaisuja.",
+    "experience": "Vuotta kokemusta",
+    "clients": "Tyytyväistä asiakasta",
+    "projects": "Valmistunutta projektia",
+    "awards": "Voitettua palkintoa"
+  },
+  "services": {
+    "title": "Palvelumme",
+    "subtitle": "Mitä tarjoamme",
+    "strategy": {
+      "title": "Liiketoimintastrategia",
+      "description": "Kehitämme kattavia strategioita kasvun edistämiseksi ja suorituskyvyn parantamiseksi"
+    },
+    "financial": {
+      "title": "Talouskonsultointi",
+      "description": "Asiantuntevaa taloudellista neuvontaa liiketoiminnan ja investointien optimoimiseksi"
+    },
+    "operations": {
+      "title": "Toiminnan hallinta",
+      "description": "Virtaviivaistamme toimintoja ja parannaa tehokkuutta koko organisaatiossa"
+    },
+    "marketing": {
+      "title": "Markkinointistrategia",
+      "description": "Luomme tehokkaita markkinointikampanjoita, jotka tavoittavat kohdeyleisösi"
+    },
+    "hr": {
+      "title": "HR-konsultointi",
+      "description": "Rakennamme vahvoja tiimejä ja kehitämme tehokkaita henkilöstöstrategioita"
+    },
+    "technology": {
+      "title": "Teknologiakonsultointi",
+      "description": "Hyödynnämme teknologiaa liiketoimintasi muuttamiseksi ja kilpailukyvyn säilyttämiseksi"
+    }
+  },
+  "pricing": {
+    "title": "Hinnoittelusuunnitelmamme",
+    "subtitle": "Valitse tarpeisiisi sopiva paketti",
+    "monthly": "Kuukausittain",
+    "annually": "Vuosittain",
+    "starter": {
+      "name": "Aloituspaketti",
+      "description": "Täydellinen pienyrityksille",
+      "price": "299",
+      "features": [
+        "10 käyttäjää",
+        "5 projektia",
+        "Sähköpostituki",
+        "Perusanalytiikka",
+        "Kuukausiraportit"
+      ]
+    },
+    "professional": {
+      "name": "Ammattipaketti",
+      "description": "Ihanteellinen kasvaville yrityksille",
+      "price": "599",
+      "features": [
+        "25 käyttäjää",
+        "Rajattomat projektit",
+        "Ensisijainen tuki",
+        "Edistynyt analytiikka",
+        "Viikkoraportit",
+        "Mukautetut integraatiot"
+      ]
+    },
+    "corporate": {
+      "name": "Yrityspaketti",
+      "description": "Suunniteltu yritysasiakkaille",
+      "price": "999",
+      "features": [
+        "50 käyttäjää",
+        "Rajattomat projektit",
+        "24/7 tuki",
+        "Premium-analytiikka",
+        "Reaaliaikaiset raportit",
+        "Oma päällikkö",
+        "Mukautetut ratkaisut"
+      ]
+    },
+    "cta": "Hanki nyt"
+  },
+  "testimonials": {
+    "title": "Palautetta sinulta",
+    "subtitle": "Mitä asiakkaamme sanovat meistä",
+    "testimonial1": {
+      "text": "Kiitämme teitä korkeasta vastuuntunnosta, ymmärryksestä ja halusta auttaa jokaisessa tilanteessa! Haluan myös mainita pätevyyden ja tehokkuuden. Odotamme hedelmällistä ja pitkäaikaista yhteistyötä!",
+      "author": "George Carroll",
+      "position": "Toimitusjohtaja, Tech Solutions"
+    },
+    "testimonial2": {
+      "text": "Ilmaisen syvän kiitollisuuteni tiimille moitteettomasta ja tuottavasta palvelusta yrityksen toiminnassa seitsemän vuoden yhteistyön tulosten perusteella. Suosittelen tämän yrityksen palveluita kaikille!",
+      "author": "Lionel Backer",
+      "position": "Johtaja, Innovation Labs"
+    },
+    "testimonial3": {
+      "text": "Tämä yritys on ollut kumppanimme 2 vuotta. He ovat vastuussa kaikista heille annetuista tehtävistä ja suorittavat työn tehokkaasti ja ajallaan. Yrityksellä on päteviä työntekijöitä, kurinalaisuutta ja vahva tiimihenki.",
+      "author": "Jennifer Baldwin",
+      "position": "Päällikkö, Global Enterprises"
+    }
+  },
+  "contact": {
+    "title": "Ota yhteyttä",
+    "subtitle": "Haluamme kuulla sinusta",
+    "name": "Nimesi",
+    "email": "Sähköpostisi",
+    "phone": "Puhelinnumero",
+    "message": "Viestisi",
+    "send": "Lähetä viesti",
+    "info": {
+      "address": "Katuosoite 123, Kaupunki, Maa",
+      "phone": "+358 123 456 789",
+      "email": "info@konsultointi.fi",
+      "hours": "Ma-Pe: 9.00 - 18.00"
+    }
+  },
+  "footer": {
+    "description": "Tarjoamme asiantuntevaa konsultointipalvelua auttaaksemme yritystäsi kasvamaan ja menestymään.",
+    "quickLinks": "Pikalinkit",
+    "services": "Palvelut",
+    "contact": "Yhteystiedot",
+    "rights": "Kaikki oikeudet pidätetään."
+  },
+  "common": {
+    "learnMore": "Lue lisää",
+    "getStarted": "Aloita",
+    "readMore": "Lue lisää",
+    "contactUs": "Ota yhteyttä"
+  }
+}

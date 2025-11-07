@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Cut your costs by up to 50%",
+    "subtitle": "We provide expert consulting services to help your business grow and succeed in today's competitive market.",
+    "cta": "Get Started",
+    "ctaSecondary": "Learn More",
+    "hours": "Mon-Fri: 9 AM – 22 PM",
+    "hoursWeekend": "Saturday: 9 AM – 20 PM",
+    "tagline": "Your results are our top priority!"
+  },
+  "about": {
+    "title": "About Our Company",
+    "subtitle": "Excellence in Consulting",
+    "description": "We are a team of experienced consultants dedicated to helping businesses achieve their goals. With years of industry experience, we provide strategic guidance and practical solutions.",
+    "experience": "Years of Experience",
+    "clients": "Happy Clients",
+    "projects": "Completed Projects",
+    "awards": "Awards Won"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "What We Offer",
+    "strategy": {
+      "title": "Business Strategy",
+      "description": "Develop comprehensive strategies to drive growth and improve performance"
+    },
+    "financial": {
+      "title": "Financial Consulting",
+      "description": "Expert financial advice to optimize your business finances and investments"
+    },
+    "operations": {
+      "title": "Operations Management",
+      "description": "Streamline operations and improve efficiency across your organization"
+    },
+    "marketing": {
+      "title": "Marketing Strategy",
+      "description": "Create effective marketing campaigns that reach your target audience"
+    },
+    "hr": {
+      "title": "HR Consulting",
+      "description": "Build strong teams and develop effective human resource strategies"
+    },
+    "technology": {
+      "title": "Technology Consulting",
+      "description": "Leverage technology to transform your business and stay competitive"
+    }
+  },
+  "pricing": {
+    "title": "Our Pricing Plans",
+    "subtitle": "Choose the plan that fits your needs",
+    "monthly": "Monthly",
+    "annually": "Annually",
+    "starter": {
+      "name": "Starter Pack",
+      "description": "Perfect for small businesses",
+      "price": "299",
+      "features": [
+        "10 Users",
+        "5 Projects",
+        "Email Support",
+        "Basic Analytics",
+        "Monthly Reports"
+      ]
+    },
+    "professional": {
+      "name": "Professional Pack",
+      "description": "Ideal for growing companies",
+      "price": "599",
+      "features": [
+        "25 Users",
+        "Unlimited Projects",
+        "Priority Support",
+        "Advanced Analytics",
+        "Weekly Reports",
+        "Custom Integrations"
+      ]
+    },
+    "corporate": {
+      "name": "Corporate Pack",
+      "description": "Designed for corporate clients",
+      "price": "999",
+      "features": [
+        "50 Users",
+        "Unlimited Projects",
+        "24/7 Support",
+        "Premium Analytics",
+        "Real-time Reports",
+        "Dedicated Manager",
+        "Custom Solutions"
+      ]
+    },
+    "cta": "Get Now"
+  },
+  "testimonials": {
+    "title": "Feedback from you",
+    "subtitle": "What our clients say about us",
+    "testimonial1": {
+      "text": "We express our gratitude to you for your high responsibility, understanding, and desire to help in any situation! I also want to note the competence and efficiency. We look forward to fruitful and long-term cooperation!",
+      "author": "George Carroll",
+      "position": "CEO, Tech Solutions"
+    },
+    "testimonial2": {
+      "text": "I express my deep gratitude to the team for the impeccable and productive service to the company's activities based on the results of seven years of joint work. I recommend the services of this company to everyone!",
+      "author": "Lionel Backer",
+      "position": "Director, Innovation Labs"
+    },
+    "testimonial3": {
+      "text": "This company has been our partner for 2 years. They are responsible for all assigned tasks and perform the work efficiently and on time. This company has competent employees, discipline, and a strong team spirit.",
+      "author": "Jennifer Baldwin",
+      "position": "Manager, Global Enterprises"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "We'd love to hear from you",
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Phone Number",
+    "message": "Your Message",
+    "send": "Send Message",
+    "info": {
+      "address": "123 Business Street, City, Country",
+      "phone": "+1 234 567 8900",
+      "email": "info@consulting.com",
+      "hours": "Mon-Fri: 9:00 AM - 6:00 PM"
+    }
+  },
+  "footer": {
+    "description": "We provide expert consulting services to help your business grow and succeed.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact Info",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "readMore": "Read More",
+    "contactUs": "Contact Us"
+  }
+}
