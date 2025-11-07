@@ -13,10 +13,10 @@ export function About() {
   });
 
   const stats = [
-    { icon: TrendingUp, value: '15+', label: t('experience') },
-    { icon: Users, value: '500+', label: t('clients') },
-    { icon: Briefcase, value: '1000+', label: t('projects') },
-    { icon: Award, value: '50+', label: t('awards') },
+    { icon: TrendingUp, value: '10+', label: t('experience') },
+    { icon: Users, value: '10+', label: t('clients') },
+    { icon: Briefcase, value: '10+', label: t('projects') },
+    // { icon: Award, value: '50+', label: t('awards') },
   ];
 
   return (
@@ -36,7 +36,7 @@ export function About() {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {stats.map((stat, index) => (
             <motion.div
               key={index}

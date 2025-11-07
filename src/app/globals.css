@@ -122,3 +122,9 @@ html {
   background-size: cover;
   background-position: center;
 }
+
+.contact-container {
+  background-image: url('~/public/images/contact.jpg');
+  background-size: cover;
+  background-position: center;
+}

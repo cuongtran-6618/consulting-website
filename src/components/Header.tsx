@@ -11,6 +11,7 @@ export function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const t = useTranslations('nav');
+  const headerTranslate = useTranslations('header');
 
   useEffect(() => {
     const handleScroll = () => {
@@ -33,8 +34,8 @@ export function Header() {
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         isScrolled
-          ? 'bg-background/95 backdrop-blur-md shadow-md'
-          : 'sm:bg-transparent bg-background/95 backdrop-blur shadow'
+          ? 'bg-white backdrop-blur-md shadow-md'
+          : 'bg-white backdrop-blur shadow'
       }`}
     >
       <div className="container mx-auto px-4">
@@ -42,7 +43,7 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <div className="text-2xl font-bold text-primary">
-              Consultor
+              {headerTranslate('company')}
             </div>
           </Link>
 

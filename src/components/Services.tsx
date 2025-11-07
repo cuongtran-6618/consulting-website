@@ -54,17 +54,17 @@ export function Services() {
   ];
 
   return (
-    <section id="services" className="py-20 bg-gradient-to-br from-blue-50 via-white to-purple-50">
+    <section id="services" className="py-20 bg-blue-500">
       <div className="container mx-auto px-4">
         <motion.div
           ref={ref}
           initial={{ opacity: 0, y: 20 }}
           animate={inView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6 }}
-          className="text-center mb-16"
+          className="text-center mb-16 text-white"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">{t('title')}</h2>
-          <p className="text-xl text-muted-foreground">{t('subtitle')}</p>
+          <p className="text-xl">{t('subtitle')}</p>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

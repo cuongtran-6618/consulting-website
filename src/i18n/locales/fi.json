@@ -145,5 +145,8 @@
     "getStarted": "Aloita",
     "readMore": "Lue lisää",
     "contactUs": "Ota yhteyttä"
+  },
+  "header": {
+    "company": "NordicSME Oy"
   }
 }

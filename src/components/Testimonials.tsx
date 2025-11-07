@@ -32,7 +32,7 @@ export function Testimonials() {
   ];
 
   return (
-    <section id="testimonials" className="py-20 bg-gradient-to-br from-blue-50 via-white to-purple-50">
+    <section id="testimonials" className="py-20 bg-whitesmoke">
       <div className="container mx-auto px-4">
         <motion.div
           ref={ref}

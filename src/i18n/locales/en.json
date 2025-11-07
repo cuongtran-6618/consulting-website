@@ -145,5 +145,8 @@
     "getStarted": "Get Started",
     "readMore": "Read More",
     "contactUs": "Contact Us"
+  },
+  "header": {
+    "company": "NordicSME Ltd."
   }
 }
